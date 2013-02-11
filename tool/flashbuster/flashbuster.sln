@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flashbuster", "flashbuster\flashbuster.vcproj", "{1A775298-4341-447D-8D18-60D28DA15C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|EVM3530_SDK (ARMV4I) = Debug|EVM3530_SDK (ARMV4I)
+		Release|EVM3530_SDK (ARMV4I) = Release|EVM3530_SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A775298-4341-447D-8D18-60D28DA15C86}.Debug|EVM3530_SDK (ARMV4I).ActiveCfg = Debug|EVM3530_SDK (ARMV4I)
+		{1A775298-4341-447D-8D18-60D28DA15C86}.Debug|EVM3530_SDK (ARMV4I).Build.0 = Debug|EVM3530_SDK (ARMV4I)
+		{1A775298-4341-447D-8D18-60D28DA15C86}.Debug|EVM3530_SDK (ARMV4I).Deploy.0 = Debug|EVM3530_SDK (ARMV4I)
+		{1A775298-4341-447D-8D18-60D28DA15C86}.Release|EVM3530_SDK (ARMV4I).ActiveCfg = Release|EVM3530_SDK (ARMV4I)
+		{1A775298-4341-447D-8D18-60D28DA15C86}.Release|EVM3530_SDK (ARMV4I).Build.0 = Release|EVM3530_SDK (ARMV4I)
+		{1A775298-4341-447D-8D18-60D28DA15C86}.Release|EVM3530_SDK (ARMV4I).Deploy.0 = Release|EVM3530_SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
